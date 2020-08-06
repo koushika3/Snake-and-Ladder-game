@@ -1,3 +1,3 @@
 Snake and Ladder game
 
-A multiplayer Snake and Ladder game using basic structure in Python.
+A multiplayer Snake and Ladder game using Python.
